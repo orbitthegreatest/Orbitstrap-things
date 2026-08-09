@@ -1,0 +1,27 @@
+[
+  { "id": "northern-lights", "name": "Northern Lights Skybox", "url": "https://raw.githubusercontent.com/orbitthegreatest/Orbitstrap-things/main/skyboxes/northern-lights.zip" },
+  { "id": "sky-nibiru-bl",   "name": "Sky Nibiru Bl",           "url": "https://raw.githubusercontent.com/orbitthegreatest/Orbitstrap-things/main/skyboxes/sky-nibiru-bl.zip" },
+  { "id": "troll-face",      "name": "Troll Face Skybox",       "url": "https://raw.githubusercontent.com/orbitthegreatest/Orbitstrap-things/main/skyboxes/troll-face.zip" },
+  { "id": "xen-skybox",      "name": "XenSkybox",               "url": "https://raw.githubusercontent.com/orbitthegreatest/Orbitstrap-things/main/skyboxes/xen-skybox.zip" },
+
+  { "id": "beautiful",       "name": "Beautiful",               "url": "https://raw.githubusercontent.com/orbitthegreatest/Orbitstrap-things/main/skyboxes/beautiful.zip" },
+  { "id": "blue",            "name": "Blue",                    "url": "https://raw.githubusercontent.com/orbitthegreatest/Orbitstrap-things/main/skyboxes/blue.zip" },
+  { "id": "chill-gray",      "name": "Chill Gray",              "url": "https://raw.githubusercontent.com/orbitthegreatest/Orbitstrap-things/main/skyboxes/chill-gray.zip" },
+  { "id": "chromakey",       "name": "ChromaKey",               "url": "https://raw.githubusercontent.com/orbitthegreatest/Orbitstrap-things/main/skyboxes/chromakey.zip" },
+  { "id": "default",         "name": "Default",                 "url": "https://raw.githubusercontent.com/orbitthegreatest/Orbitstrap-things/main/skyboxes/default.zip" },
+  { "id": "grimnight",       "name": "Grimnight",               "url": "https://raw.githubusercontent.com/orbitthegreatest/Orbitstrap-things/main/skyboxes/grimnight.zip" },
+  { "id": "homer-uchiha",    "name": "Homer Uchiha",            "url": "https://raw.githubusercontent.com/orbitthegreatest/Orbitstrap-things/main/skyboxes/homer-uchiha.zip" },
+  { "id": "jungle-csgo",     "name": "Jungle CSGO",             "url": "https://raw.githubusercontent.com/orbitthegreatest/Orbitstrap-things/main/skyboxes/jungle-csgo.zip" },
+  { "id": "light-blue",      "name": "Light Blue",              "url": "https://raw.githubusercontent.com/orbitthegreatest/Orbitstrap-things/main/skyboxes/light-blue.zip" },
+  { "id": "light-pink",      "name": "Light Pink",              "url": "https://raw.githubusercontent.com/orbitthegreatest/Orbitstrap-things/main/skyboxes/light-pink.zip" },
+  { "id": "minesky",         "name": "Minesky",                 "url": "https://raw.githubusercontent.com/orbitthegreatest/Orbitstrap-things/main/skyboxes/minesky.zip" },
+  { "id": "neon-sky",        "name": "Neon Sky",                "url": "https://raw.githubusercontent.com/orbitthegreatest/Orbitstrap-things/main/skyboxes/neon-sky.zip" },
+  { "id": "neon-sky-2",      "name": "Neon Sky 2",              "url": "https://raw.githubusercontent.com/orbitthegreatest/Orbitstrap-things/main/skyboxes/neon-sky-2.zip" },
+  { "id": "pandora",         "name": "Pandora",                 "url": "https://raw.githubusercontent.com/orbitthegreatest/Orbitstrap-things/main/skyboxes/pandora.zip" },
+  { "id": "planet-cyan",     "name": "Planet Cyan",             "url": "https://raw.githubusercontent.com/orbitthegreatest/Orbitstrap-things/main/skyboxes/planet-cyan.zip" },
+  { "id": "purple-void",     "name": "Purple Void",             "url": "https://raw.githubusercontent.com/orbitthegreatest/Orbitstrap-things/main/skyboxes/purple-void.zip" },
+  { "id": "remram",          "name": "RemRam",                  "url": "https://raw.githubusercontent.com/orbitthegreatest/Orbitstrap-things/main/skyboxes/remram.zip" },
+  { "id": "sky-purple",      "name": "Sky Purple",              "url": "https://raw.githubusercontent.com/orbitthegreatest/Orbitstrap-things/main/skyboxes/sky-purple.zip" },
+  { "id": "sky2006",         "name": "Sky2006",                 "url": "https://raw.githubusercontent.com/orbitthegreatest/Orbitstrap-things/main/skyboxes/sky2006.zip" },
+  { "id": "yumeko",          "name": "Yumeko",                  "url": "https://raw.githubusercontent.com/orbitthegreatest/Orbitstrap-things/main/skyboxes/yumeko.zip" }
+]
