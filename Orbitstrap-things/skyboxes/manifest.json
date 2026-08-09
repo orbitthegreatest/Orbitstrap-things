@@ -1,0 +1,6 @@
+[
+  { "id": "northern-lights", "name": "Northern Lights Skybox", "url": "https://raw.githubusercontent.com/orbitthegreatest/Orbitstrap-things/main/skyboxes/northern-lights.zip" },
+  { "id": "sky-nibiru-bl",   "name": "Sky Nibiru Bl",           "url": "https://raw.githubusercontent.com/orbitthegreatest/Orbitstrap-things/main/skyboxes/sky-nibiru-bl.zip" },
+  { "id": "troll-face",      "name": "Troll Face Skybox",       "url": "https://raw.githubusercontent.com/orbitthegreatest/Orbitstrap-things/main/skyboxes/troll-face.zip" },
+  { "id": "xen-skybox",      "name": "XenSkybox",               "url": "https://raw.githubusercontent.com/orbitthegreatest/Orbitstrap-things/main/skyboxes/xen-skybox.zip" }
+]
