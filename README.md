@@ -39,10 +39,3 @@ real and already sitting next to each manifest in this delivery.
 Nothing here is consumed by the app yet — that's Task 3B (wire the app to actually fetch from
 this repo), which comes after this repo exists for real on GitHub.
 
-## Setup (for the repo owner)
-
-1. Create an empty GitHub repo named `Orbitstrap-things` under your account.
-2. Push the contents of this folder to it (including the 34 zip files — `emote-wheels/*.zip` and
-   `skyboxes/*.zip` — not just the manifests).
-3. If your GitHub username/repo name differs from `orbitthegreatest/Orbitstrap-things`, update
-   the `url` field in both `manifest.json` files to match your actual repo path.
